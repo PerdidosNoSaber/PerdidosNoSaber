@@ -1,4 +1,6 @@
 # Perdidos no Saber - Jogo
-<p>Desenvolvimento do jogo Perdidos no Saber, projeto desenvolvido para conclusão do 1° ano do curso Técnico de Informática Integrado no IFSP.</p>
+Projeto desenvolvido pelo grupo New Castle para conclusão das disciplinas técnicas no 1° ano do curso Técnico em Informática Integrado.
+O jogo Perdidos no Saber foi pensado para auxiliar crianças de 10 a 12 anos. Contava com 7 fases que ajudavam a criança a aprender de forma lúdica, o projeto abordava as matérias básicas do currículo escolar.
 
-* Feito por: Beatriz Mazzeu, Geovanna da Silva Lima, Giovanna Taliatti Falcão, Igor Domingos da Silva Mozetic e Julia Andrade Dias
+<p>Informações Técnicas:</p>
+O jogo foi desenvolvido na linguagem GML pelo software de desenvolvimento Game Maker Studio
